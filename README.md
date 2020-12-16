@@ -21,18 +21,8 @@ decade
 ▪ Population  
 ▪ Weather  
 ▪ Crime rate     
-3, Predict house prices for the next 5 years for the top 10
-US states  
-▪ Michigan
-▪ Colorado
-▪ Texas
-▪ California
-▪ Massachusetts
-▪ Idaho
-▪ Ohio
-▪ Kansas
-▪ New York
-▪ New Jersey  
+3, Analysis house prices for 8 years window for New York State     
+
 
 Data Sets to be Used  
 o Google Maps API  
