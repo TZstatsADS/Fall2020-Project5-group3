@@ -41,6 +41,7 @@ o Open Weather API
 o Census Data API and Income CSV  
 o FBI Crime Data API  
 
+Here is the main.pdf [here](doc/main.pdf)
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) Wen Yin is the only memeber in our team, he finishes all the work.
 
