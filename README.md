@@ -18,7 +18,7 @@ Research Questions to Answer
 decade  
 2, Track the correlation of housing prices with  
 ▪ Income levels  
-▪ Population  
+▪ Interest rate  
 ▪ Weather  
 ▪ Crime rate     
 3, Analysis house prices for 8 years window for New York State     
